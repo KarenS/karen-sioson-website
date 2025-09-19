@@ -2,7 +2,7 @@
 
 > A beautiful, interactive personal portfolio website with background music, photo galleries, and contact functionality.
 
-🌐 **Live Website**: [Visit Karen's Website](https://yourusername.github.io/karen-sioson-website/)
+🌐 **Live Website**: [Visit Karen's Website](https://karens.github.io/karen-sioson-website/)
 
 ![Website Preview](Website/Profile.jpg)
 
